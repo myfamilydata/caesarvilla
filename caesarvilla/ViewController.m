@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
+    SCREEN_WIDTH;
 }
 
 @end
